@@ -1,0 +1,14 @@
+.center {
+  margin-right: 100px;
+  background-color: gray;
+}
+
+.center .tableheader {
+  color: white;
+}
+
+body {
+  background-color: black;
+}
+
+/*# sourceMappingURL=variable.css.map */
