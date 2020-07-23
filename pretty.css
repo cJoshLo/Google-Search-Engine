@@ -1,0 +1,72 @@
+.main{
+	text-align:center;
+	margin-top:200px; 
+
+}
+#search{
+	border-radius: 25px;
+	width: 500px;
+}
+
+#searcha{
+	margin-top: 30px;
+	margin-left: 100px;
+	width: 400px;
+}
+
+#searchb{
+	margin-top: 30px;
+	margin-left: 27px;
+	width: 400px;
+}
+
+#searchc{
+	margin-top: 30px;
+	margin-left: 70px;
+	width: 400px;
+}
+
+#searchd{
+	margin-top: 30px;
+	margin-bottom: 30px:;
+	margin-left: 58px;
+	width: 400px;
+}
+
+button{
+	background-color:transparent;
+	text-decoration-color: black;
+	float: right;
+	margin: 20px;
+	border:none;
+}
+
+#line{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	background-color: black;
+}
+
+
+
+a.watch{
+	color:black;
+	text-align:right;
+}
+input#search1{
+	margin: 20px;
+	background-color: light gray;
+	border:none;
+}
+
+#search2{
+	background-color: blue;
+	border:blue;
+	color:white;
+	margin-left: 485px;
+	margin-top: 30px;
+}
+
+.ad1{
+	margin-left: 20px
+}
