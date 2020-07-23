@@ -3,4 +3,4 @@
 Web Programming with Python and JavaScript
 
 
-Creating a website that can help connect people with similar interets.  
+Created a search front end like googles. For images, normal and advance searches
