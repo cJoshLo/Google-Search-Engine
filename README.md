@@ -3,4 +3,4 @@
 Web Programming with Python and JavaScript
 
 
-Created a search front end like googles. For images, normal and advance searches
+Created a search engine front end similar to google. This program works for images, text and advance searches.
